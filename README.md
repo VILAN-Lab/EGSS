@@ -1,5 +1,5 @@
 # EGSS
-EGSS paper code
+<--EGSS paper code-->
 ## Prerequisites
 
 - Python 3.6
